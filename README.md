@@ -42,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0001-two-sum) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |

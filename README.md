@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->

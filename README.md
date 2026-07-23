@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
@@ -135,10 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

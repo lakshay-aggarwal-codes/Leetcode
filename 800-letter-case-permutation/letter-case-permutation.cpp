@@ -1,8 +1,7 @@
 class Solution {
 public:
-    void solve(int idx, string curr, vector<string>& ans, string s) {
-        int n = s.size();
-        if (idx == n) {
+    void solve(int idx, string &curr, vector<string>& ans, string& s) { 
+        if (idx == s.size()) {
             ans.push_back(curr);
             return;
         }

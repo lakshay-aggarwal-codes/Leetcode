@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0086-partition-list) |
+| [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

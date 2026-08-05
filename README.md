@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0029-divide-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |

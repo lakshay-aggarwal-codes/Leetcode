@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |

@@ -33,7 +33,7 @@ public:
             arr.push_back(data);
             temp=temp->next;
         }
-        insertionSort(arr);
+        sort(arr.begin(), arr.end());
         ListNode* a = new ListNode(arr[0]);
         ListNode *tail = a;
         for(int i=1;i< arr.size();i++){

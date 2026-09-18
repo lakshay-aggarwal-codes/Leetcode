@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |

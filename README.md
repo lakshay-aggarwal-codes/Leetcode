@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search

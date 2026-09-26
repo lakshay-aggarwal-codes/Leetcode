@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0414-third-maximum-number) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0739-daily-temperatures](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0414-third-maximum-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0853-car-fleet) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |

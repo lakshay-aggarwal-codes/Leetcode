@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0029-divide-two-integers) |
+| [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |

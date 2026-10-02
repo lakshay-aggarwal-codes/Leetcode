@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search
@@ -156,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
@@ -243,4 +246,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Shortest Path
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->

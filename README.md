@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
@@ -250,12 +252,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

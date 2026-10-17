@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 ## Graph Theory
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |

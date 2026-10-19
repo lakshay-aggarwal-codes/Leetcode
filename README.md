@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Union-Find
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
+| [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Graph Theory
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
+| [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
+| [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |

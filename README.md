@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0414-third-maximum-number) |
+| [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0739-daily-temperatures](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

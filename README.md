@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1092-shortest-common-supersequence](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->

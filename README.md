@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -306,4 +308,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1092-shortest-common-supersequence) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

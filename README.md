@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -323,4 +326,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->

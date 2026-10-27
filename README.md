@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0542-01-matrix) |
 | [0739-daily-temperatures](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0853-car-fleet) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |

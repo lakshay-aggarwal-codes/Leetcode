@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2747-count-zero-request-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2747-count-zero-request-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0076-minimum-window-substring) |
+| [2747-count-zero-request-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0853-car-fleet) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2747-count-zero-request-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy

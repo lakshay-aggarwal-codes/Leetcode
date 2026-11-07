@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1882-process-tasks-using-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1882-process-tasks-using-servers](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2699-modify-graph-edge-weights](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2699-modify-graph-edge-weights) |
 | [3123-find-edges-in-shortest-paths](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |

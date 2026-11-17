@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0086-partition-list) |
 | [0844-backspace-string-compare](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search

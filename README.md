@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Linked List
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/08817711624aiml-coder/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sorting
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Stack
 |  |
 | ------- |

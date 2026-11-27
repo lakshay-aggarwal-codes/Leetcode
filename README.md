@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/08817711624aiml-coder/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1402-reducing-dishes](https://github.com/08817711624aiml-coder/Leetcode/tree/master/1402-reducing-dishes) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/08817711624aiml-coder/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/08817711624aiml-coder/Leetcode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Stack
 |  |
